@@ -1,15 +1,7 @@
 ---
-description: Recoge aldeanos, cambia sus biomas, reclámalos y ¡mucho más!
+description: Wiki que hice porque no me gusta el inglés :V
 ---
 
-# ClickVillagers
+# Home
 
-Funciones:
-
-* Reclamar aldeanos y protegerlos de otros jugadores
-* Edita las propiedades de los aldeanos reclamados
-* Cambiar las variantes de bioma de los aldeanos
-* Permitir que tus socios comerciales comercien sólo con tus aldeanos
-
-
-
+Por el momento solo incluye plugins que contiene el servidor Bonifazland
